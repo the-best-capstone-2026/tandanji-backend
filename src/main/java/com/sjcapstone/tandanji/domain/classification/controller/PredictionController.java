@@ -1,4 +1,4 @@
-package com.sjcapstone.tandanji.controller;
+package com.sjcapstone.tandanji.domain.classification.controller;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
