@@ -1,6 +1,6 @@
-package com.sjcapstone.tandanji.src.repository;
+package com.sjcapstone.tandanji.domain.repository;
 
-import com.sjcapstone.tandanji.src.entity.Food;
+import com.sjcapstone.tandanji.domain.entity.Food;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

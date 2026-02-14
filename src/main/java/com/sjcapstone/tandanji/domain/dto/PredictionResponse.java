@@ -1,4 +1,4 @@
-package com.sjcapstone.tandanji.src.dto;
+package com.sjcapstone.tandanji.domain.dto;
 
 public record PredictionResponse(
         String category, // Food 11개 카테고리

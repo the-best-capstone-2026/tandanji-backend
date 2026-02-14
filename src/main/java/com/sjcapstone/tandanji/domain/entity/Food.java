@@ -1,4 +1,4 @@
-package com.sjcapstone.tandanji.src.entity;
+package com.sjcapstone.tandanji.domain.entity;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;
